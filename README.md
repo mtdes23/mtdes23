@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Minh Tri (@mtdes23)
-### 🎨 Graphic Designer | 💻 Vibe Coding | 📸 Photographer
+### 🎨 Graphic Designer | 📸 Photographer | 💻 Vibe Coder
 
 Welcome to my GitHub space! With over 6 years of expertise in graphic design and multimedia production, I specialize in blending traditional design principles, automotive photography, and AI-driven workflows to deliver highly engaging, functional, and aesthetic digital experiences. 
 
