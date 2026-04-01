@@ -5,7 +5,7 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ## 🌟 About Me
 - 🎓 **Education:** Bachelor of Engineering in Electronics and Communication Technology (Saigon University).
-- 🧠 **AI Workflow Enthusiast:** Deeply passionate about integrating AI (Gemini, ChatGPT, AI Video tools) into professional creative production and UI/UX design.
+- 🧠 **AI Workflow Enthusiast:** Deeply passionate about integrating AI (Gemini, Antigraviy, AI tools) into professional creative production and UI/UX design.
 - 👨‍💻 **Web Development:** I love exploring Front-end Web Development (HTML, CSS, JavaScript) by building interactive, real-world applications.
 - 🚗 **Communities:** Active member in tech groups (J2TEAM Community), design and automotive racing communities.
 - 🌍 **Languages:** Continuously improving my Japanese (JLPT N4, N5 Certified).
