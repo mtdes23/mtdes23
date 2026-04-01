@@ -25,16 +25,15 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-ffffff?style=for-the-badge&logo=midjourney&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-74aa9c?style=for-the-badge&logo=antigravity&logoColor=white)
 
 ## 🚀 Featured Projects
 
-- 🍔 **[Bé Ơi Ăn Gì? (What to eat, baby?)](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for families featuring a 52-card deck mechanic and a "Western Vietnamese" culinary theme. Built with HTML, CSS & JS.
-- 🤖 **Facebook Auto Beep (2026):** The newly rebuilt 2026 version of a legacy social media automation software project.
+- 🍔 **What to eat, baby?](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for families featuring a 52-card deck mechanic and a "Western Vietnamese" culinary theme. Built with HTML, CSS & JS.
 - 🔠 **[Font Converter Pro](https://github.com/mtdes23/chuyen-doi-font):** A professional batch font conversion tool supporting `.woff`, `.woff2` to `.ttf` for developers.
 - 🧘‍♂️ **[Breathe](https://github.com/mtdes23/tap-tho):** A breathing exercise and relaxation practice web utility.
-- 🌐 **[Facebook Auto Beep](https://github.com/mtdes23/auto-beep):** Personal Vibe portfolio website featuring interactive 3D graphics.
+- 🤖 **[Facebook Auto Beep](https://github.com/mtdes23/auto-beep):** The newly rebuilt 2026 version of a legacy social media automation software.
 
 ## 📊 GitHub Activity
 
@@ -44,7 +43,7 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ## 📫 Let's Connect
 - 📧 **Email:** [mtdes233@gmail.com](mailto:mtdes233@gmail.com)
-- 🌐 **Website:** [mtdes23.id.vn/profile](https://www.mtdes23.id.vn)
+- 🌐 **Website:** [mtdes23.id.vn/profile](https://www.mtdes23.id.vn/profile)
 - 💼 **LinkedIn:** [linkedin.com/in/mtdes23](https://www.linkedin.com/in/mtdes23)
 - 🎨 **Behance:** [behance.net/mtdes23](https://www.behance.net/mtdes23)
 
