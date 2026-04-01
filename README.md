@@ -30,7 +30,7 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ## 🚀 Featured Projects
 
-- 🍔 **What to eat, baby?](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for families featuring a 52-card deck mechanic and a "Western Vietnamese" culinary theme. Built with HTML, CSS & JS.
+- 🍔 **[What to eat, baby?](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for families featuring a 52-card deck mechanic and a "Western Vietnamese" culinary theme. Built with HTML, CSS & JS.
 - 🔠 **[Font Converter Pro](https://github.com/mtdes23/chuyen-doi-font):** A professional batch font conversion tool supporting `.woff`, `.woff2` to `.ttf` for developers.
 - 🧘‍♂️ **[Breathe](https://github.com/mtdes23/tap-tho):** A breathing exercise and relaxation practice web utility.
 - 🤖 **[Facebook Auto Beep](https://github.com/mtdes23/auto-beep):** The newly rebuilt 2026 version of a legacy social media automation software.
