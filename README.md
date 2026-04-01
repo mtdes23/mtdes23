@@ -36,11 +36,10 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 - 🧘‍♂️ **[Tập Thở (Breathe)](https://github.com/mtdes23/tap-tho):** A breathing exercise and relaxation practice web utility.
 - 🌐 **[Profile Website](https://github.com/mtdes23/profile-website):** Personal Vibe portfolio website featuring interactive 3D graphics.
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtdes23&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtdes23&layout=compact&theme=radical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtdes23&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ## 📫 Let's Connect
