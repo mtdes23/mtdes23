@@ -46,7 +46,7 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 - 📧 **Email:** [mtdes233@gmail.com](mailto:mtdes233@gmail.com)
 - 🌐 **Website:** [mtdes23.id.vn](https://www.mtdes23.id.vn)
 - 💼 **LinkedIn:** [linkedin.com/in/mtdes23](https://www.linkedin.com/in/mtdes23)
-- 💻 **Github:** [https://github.com/mtdes23](https://www.github.com/mtdes23)
+- 💻 **Github:** [github.com/mtdes23](https://www.github.com/mtdes23)
 
 ---
 *"Creativity is not just about making things look beautiful; it's about solving problems with aesthetics and creating meaningful experiences."*
