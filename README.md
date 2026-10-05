@@ -38,9 +38,7 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mtdes23&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtdes23&show_icons=true&theme=tokyonight)](https://github.com/mtdes23/mtdes23)
 
 ## 📫 Let's Connect
 - 📧 **Email:** [mtdes233@gmail.com](mailto:mtdes233@gmail.com)
