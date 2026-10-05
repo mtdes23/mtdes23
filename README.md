@@ -31,10 +31,12 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ## 🚀 Featured Projects
 
-- 🍔 **[What to eat, baby?](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for families featuring a 52-card deck mechanic and a "Western Vietnamese" culinary theme. Built with HTML, CSS & JS.
+- 🌐 **[Vibe J2TEAM](https://github.com/mtdes23/vibe.j2team.org):** Achieving Top 4 — What if the whole J2TEAM Community vibe coded together? A fun experimental space built to connect the coding energy of the entire community.
+- 🍔 **[What to eat, baby?](https://github.com/mtdes23/be-oi-an-gi):** A fun food suggestion web app for couples and families.
+- 🏸 **[Badminton Set](https://github.com/mtdes23/badminton-set):** A helpful tool for scheduling, organizing, and managing badminton matches quickly and conveniently.
 - 🔠 **[Font Converter Pro](https://github.com/mtdes23/chuyen-doi-font):** A professional batch font conversion tool supporting `.woff`, `.woff2` to `.ttf` for developers.
-- 🧘‍♂️ **[Breathe](https://github.com/mtdes23/tap-tho):** A breathing exercise and relaxation practice web utility.
-- 🤖 **[Facebook Auto Beep](https://github.com/mtdes23/auto-beep):** The newly rebuilt 2026 version of a legacy social media automation software.
+- 📺 **[All PIP](https://github.com/mtdes23/all-pip):** A handy browser utility to easily watch videos in Picture-in-Picture (PiP) mode across any browser.
+- 💡 **[Prompt For You](https://github.com/mtdes23/promt-for-u):** A tool designed to easily generate image prompts from anywhere.
 
 ## 📊 GitHub Activity
 
