@@ -48,5 +48,4 @@ Welcome to my GitHub space! With over 6 years of expertise in graphic design and
 
 ---
 *"Creativity is not just about making things look beautiful; it's about solving problems with aesthetics and creating meaningful experiences."*
-\\![Daftpunktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
